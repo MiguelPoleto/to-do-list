@@ -1,7 +1,5 @@
 # To-Do List
 
-![To-Do List](https://img.shields.io/badge/Status-Em%20desenvolvimento-yellow)
-
 ## 📌 Sobre o projeto
 
 O **To-Do List** é uma aplicação web desenvolvida para gerenciar tarefas diárias. Permite aos usuários adicionar, visualizar, editar e remover tarefas, proporcionando uma interface intuitiva para organização pessoal.
